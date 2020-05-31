@@ -1,2 +1,0 @@
-# pcap
-PCAP practice

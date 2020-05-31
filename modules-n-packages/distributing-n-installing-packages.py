@@ -7,9 +7,7 @@
 
 
 # tree <folder_name>
-
 # How to create a package that is installable?
-
 # To do this, we have to use a project called setup tools
 
 # setup.py file
@@ -144,16 +142,6 @@ You are using pip version 19.0.3, however version 20.2b1 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 
 ### Now this package is installed globally 
-
-
-
-
-
-
-
-
-
-
 
 
 

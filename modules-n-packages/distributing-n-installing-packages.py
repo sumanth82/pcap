@@ -5,6 +5,8 @@
 #PyPA - Python Packaging Authority
 # https://github.com/pypa/sampleproject
 
+# https://docs.python.org/3/tutorial/modules.html#packages
+
 
 # tree <folder_name>
 # How to create a package that is installable?

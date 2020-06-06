@@ -1,3 +1,9 @@
+# The way you set the Python interpreter using - SHEBANG:
+
+#!/usr/bin env python 
+
+# This creates a symlink in ~/.pyenv/versions/3.7.6/bin/python 
+
 ## Import the module using the name of the module file - import helpers 
 # Modules are just files
 

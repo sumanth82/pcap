@@ -1,3 +1,19 @@
+
+# Docstrings to document the package
+# It's a string and not a comment 
+# THe module will have a __doc module that we can access later 
+
+# When you import the package, you can use the <module/package_name>.__doc__ to get the details on the package 
+
+
+"""
+
+Helpers is a package that provides easy to use helper functions
+
+"""
+
+
+
 # Package is 
 # Name of the file to identiy for as a package -- __init__.py
 
